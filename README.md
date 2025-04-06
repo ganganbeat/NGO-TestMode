@@ -1,7 +1,7 @@
 # NGO-TestMode
 NEEDY GIRL OVERDOSEでテストモードに入るためのメモ
 
-簡単に言うとWindow2DTestSceneを呼び出すだけ<br>
+簡単に言うとWindow2DTestSceneを呼び出すだけ<br><br>
 dnSpyでngov3.Bootで検索をかけて上にあるpublic void Awake()で右クリックしてEdit Method<br>
 
 ```
